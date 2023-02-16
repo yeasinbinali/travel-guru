@@ -1,0 +1,33 @@
+.description-calendar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    margin-top: 30px;
+}
+.calendar {
+    background-color: rgb(225, 255, 225);
+    padding: 50px;
+}
+.description p{
+    text-align: justify;
+    margin-right: 20px;
+}
+.calendar-from-to{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.calendar a{
+    text-decoration: none;
+    background-color: rgba(249, 165, 26, 1);
+    padding: 10px 30px;
+    color: white;
+}
+
+@media screen and (max-width: 991px) {
+    .description-calendar {
+        display: block;
+    }
+}

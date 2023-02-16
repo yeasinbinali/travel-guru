@@ -1,0 +1,18 @@
+.logo{
+    width: 120.26px;
+    height: 56px;
+}
+Nav a{
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 16px;
+}
+.logout-Btn{
+    border: none;
+    background-color: orange;
+    margin-left: 20px;
+    padding: 5px 10px;
+}
+.logout-Btn:hover{
+    color: white;
+}

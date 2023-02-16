@@ -1,0 +1,9 @@
+.googleBtn{
+    background-color: rgba(249, 165, 26, 1);
+    width: 100%;
+    border: none;
+    padding: 5px 0;
+}
+.googleBtn:hover {
+    color: white;
+}
